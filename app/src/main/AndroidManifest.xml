@@ -29,10 +29,6 @@
                 android:name="org.apache.http.legacy"
                 android:required="false"/>
 
-        <meta-data
-                android:name="com.google.android.geo.API_KEY"
-                android:value="AIzaSyCIl9NuqjUz58TOtYOudnFvj8vHoKGCTwI"/>
-
         <provider
                 android:name="br.com.mauker.materialsearchview.db.HistoryProvider"
                 android:authorities="br.com.mauker.materialsearchview.searchhistorydatabase"
